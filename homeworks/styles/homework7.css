@@ -1,0 +1,93 @@
+.civciv1{
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+  }
+  .civciv2{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  margin-left: 20px;
+  margin-right: 20px;
+  }
+  .civciv3{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    object-fit: contain;
+    object-position: center;
+  }
+  .textbox{
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-radius: 5px;
+  border-width: 1.2px;
+  border-color: rgb(200, 200, 200);
+  padding-left: 12px;
+  border-style: solid;
+  }
+  
+  .textbox2{
+  
+  width: 300px;
+  padding-left: 12px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border: none;
+  box-shadow: 0px 0px 5px rgba(110, 110, 110, 0.5);
+  border-radius: 15px;
+  }
+  .linkedin{
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(96, 96, 96);
+  margin-bottom: 7px;
+  font-size: 12px;
+  }
+  .linkedin-textbox{
+  border-color: black;
+  width: 300px;
+  border-width: 1px;
+  border-radius: 3px;
+  border-style: solid;
+  height: 20px;
+  margin-bottom: 3px;
+  }
+  .linkedin-button{
+  background-color: rgb(10, 102, 194) ;
+  color: white;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  padding-left: 110px;
+  padding-right: 110px;
+  border: none;
+  border-radius: 25px;
+  margin-top: 10px;
+  font-size: 14px;
+  }
+  .twitter{
+  height: 50px;
+  width: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+  vertical-align: middle;
+  }
+  .twitter-textbox{
+  vertical-align: middle;
+  border: none;
+  font-size: 18px;
+  margin-left: 10px;
+  }
+  .twitter-button{
+  background-color: rgb(2, 158, 255);
+  color: white;
+  border: none;
+  font-size: 14px;
+  font-weight: bold;
+  margin-left: 80px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 20px;
+  vertical-align: middle;
+  }

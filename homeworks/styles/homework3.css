@@ -1,0 +1,149 @@
+.uber{
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    border-radius: 1px;
+    padding-left: 16px;
+    padding-right: 16px;
+    }
+    .uber:hover{
+    opacity: 0.7;
+    }
+    .amazon{
+    background-color: rgb(255, 216, 20);
+    color: black;
+    border:none;
+    border-radius:80px;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    }
+    .amazon:hover{
+    background-color: rgb(252, 207, 10);
+    }
+    .github{
+    background-color: rgb(46, 164, 79);
+    color:white;
+    font-weight: bold;
+    border:none;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    }
+    .github:hover{
+    box-shadow: 1px 3px 4px rgba(7, 7, 7, 0.5);
+    }
+    .bootstrap{
+    background-color: rgb(121, 82, 179);
+    color:white;
+    border:none;
+    border-radius: 4px;
+    font-weight: bold;
+    margin-right:15px;
+    font-size: 12px;
+    padding-top: 10.5px;
+    padding-bottom: 10.5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    vertical-align: top;
+    }
+    .bootstrap:hover{
+    background-color:  rgb(108, 67, 169);
+    }
+    .bootstrap-2{
+    background-color: white;
+    color: gray;
+    border-width: 1px;
+    border:solid;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    border-radius: 3px;
+    font-weight: bold;
+    border-color: rgb(174, 174, 174);
+    vertical-align: top;
+    }
+    .bootstrap-2:hover{
+    background-color: gray;
+    color:white;
+    border-color: gray;
+    }
+    .linkedin{
+    background-color: rgb(10, 102, 194);
+    color: white;
+    border:none;
+    border-radius: 70px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 19px;
+    padding-right: 19px;
+    }
+    .linkedin:hover{
+    background-color: rgb(12, 84, 158)
+    }
+    .linkedin-2{
+    background-color: white;
+    color: rgb(10, 102, 194);
+    
+    border-radius: 18px;
+    border-width: 1px;
+    border:solid;
+    font-weight: bold;
+    margin-left: 12px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 19px;
+    padding-right: 19px;
+    }
+    .linkedin-2:hover{
+    border-width: 2.3px;
+    background-color: rgb(227, 238, 255);
+    }
+    .link{
+        color:rgb(0, 113, 133)
+    }
+    .link:hover{
+    color: rgb(200, 74, 24);
+    }
+    .nike{
+    font-size: 25px;
+    font-weight: bold;
+    }
+    .fee{
+    font-size: 15px;
+    font-weight: bold;
+    color:rgb(0, 118, 0);
+    }
+    .amazon-2{
+    background-color: rgb(255, 216, 20);
+    color: black;
+    border:none;
+    border-radius:80px;
+    width: 107px;
+    height: 30px;
+    }
+    .amazon-2:hover{
+    background-color: rgb(240, 202, 17);
+    }
+    .amazon-2:active{
+    opacity: 0.6;
+    }
+    .amazon-3{
+    background-color: rgb(255, 164, 28);
+    color: black;
+    border:none;
+    border-radius:80px;
+    width: 107px;
+    height: 30px;
+    margin-left: 8px;
+    }
+    .amazon-3:hover{
+    background-color: rgb(250, 128, 28);
+    }

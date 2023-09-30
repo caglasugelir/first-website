@@ -1,0 +1,58 @@
+.frame{
+    width: 180px;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.5);
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    margin-right: 15px;
+    display: inline-block;
+}
+
+.horizontal1{
+width: 180px;
+}
+
+.civciv1{
+    width: 180px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.civciv2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-bottom: 5px;
+    }
+
+    .civciv3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: gray;
+    margin-top: 5px;
+    }
+ .civciv-button{
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: blue;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    }
+
+.profile-picture{
+width: 30px;
+height: 30px;
+border-radius: 15px;
+}
+.vertical1{
+display: inline-block;
+}
+.vertical2{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 3px;
+}

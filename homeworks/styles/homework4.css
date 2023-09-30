@@ -1,0 +1,68 @@
+.amazon{
+    background-color: rgb(255, 216, 20);
+    color:rgb(15, 17, 17);
+    width:200px;
+    height: 30px;
+    border-radius: 10px;
+    border: solid;
+    border-color: rgb(252, 210, 0);
+    }
+    .homework{
+    height: 36px;
+    margin-left: 5px;
+    margin-right: 5px;
+    }
+    .link{
+    margin-left: 3px; 
+    margin-right: 3px;
+    }
+    .stretch{
+    background-color: green;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border: none;
+    color:white;
+    transition: 1s;
+    }
+    .stretch:hover{
+    padding-left: 25px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 25px;
+    }
+    .shadow{
+    background-color: green;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border: none;
+    color:white;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.35);
+    }
+    .shadow:active{
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
+    margin-left: 5px;
+    margin-top: 5px;
+    }
+    .last-button{
+    background-color: green;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-top: 6.5px;
+    padding-bottom: 6.5px;
+    border: none;
+    color:white;
+    margin-right: 8px;
+    margin-left: 8px;
+    }
+    .last-button:hover{
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 6.5px;
+    padding-bottom: 6.5px;
+    margin-left:1px;
+    margin-right:1px;
+    }

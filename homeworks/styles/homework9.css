@@ -1,0 +1,155 @@
+.square{
+width: 50px;
+height: 50px;
+background-color: red;
+display: inline-block;
+margin-right: 20px;
+}
+.circle{
+width: 50px;
+height: 50px;
+background-color: green;
+border-radius: 25px;
+display: inline-block;
+}
+.service{
+margin-top: 30px;
+border: solid;
+border-color: rgb(156, 156, 156);
+border-width: 1px;
+width: 280px;
+padding-right: 15px;
+padding-left: 15px;
+padding-top: 5px;
+padding-bottom: 25px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.youtube{
+width: 350px;
+background-color: rgb(40, 40, 40);
+padding-left: 12px;
+padding-right: 12px;
+padding-top: 1px;
+padding-bottom: 2px;
+margin-top: 15px;
+}
+.youtube1{
+font-size: 22px;
+color: white;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+margin-bottom: 10px;
+}
+.youtube2{
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(150, 150, 150);
+margin-top: 10px;
+}
+.twit{
+width: 420px;
+border-color: gray;
+border: solid;
+margin-top: 20px;
+padding-left: 15px;
+padding-right: 15px;
+padding-top: 12px;
+padding-bottom: 12px;
+border-radius: 5px;
+border:none;
+box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.5);
+}
+.twitter{
+    height: 50px;
+    width: 50px;
+    object-fit: cover;
+    border-radius: 25px;
+    vertical-align: middle;
+    }
+    .twitter-textbox{
+    vertical-align: middle;
+    border: none;
+    font-size: 18px;
+    margin-left: 10px;
+    }
+    .twitter-button{
+    background-color: rgb(2, 158, 255);
+    color: white;
+    border: none;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 80px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 20px;
+    vertical-align: middle;
+    }
+    .civciv{
+    width: 180px;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.5);
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    display: inline-block;
+    margin-right: 15px;
+    }
+    .civciv1{
+    width: 180px;
+    height: 200px;
+    object-fit: cover;
+    }
+    .civciv2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-bottom: 5px;
+    }
+    .civciv3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: gray;
+    margin-top: 5px;
+    }
+    .civciv-button{
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: blue;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    }
+    .container{
+        text-align: center; 
+        }
+    .google-button{
+       background-color: rgb(240, 240, 240);
+       padding-left: 12px;
+       padding-right: 12px;
+       padding-top: 12px;
+       padding-bottom: 12px;
+       font-size: 10px;
+       border: none;
+       margin-left: 10px;
+    }
+    .container2{
+   text-align: center;
+   margin-top: 15px;
+    }
+    .google{
+    width: 150px;
+    margin-bottom: 0px;
+    }
+    .searchbox{
+        width: 300px;
+        padding-left: 12px;
+        padding-top: 7px;
+        padding-bottom: 7px;
+        border: none;
+        box-shadow: 0px 0px 5px rgba(110, 110, 110, 0.5);
+        border-radius: 15px;
+        margin-top: 0px;
+        }

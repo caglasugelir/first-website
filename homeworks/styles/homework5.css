@@ -1,0 +1,163 @@
+        .tahoma{
+        font-family: Tahoma;
+        font-weight: bold;
+        }
+        .arial{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        font-weight: bold;
+        margin-bottom: 2px;
+        }
+        .arial-2{
+        font-size: 14px;
+        color: red;
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: italic;
+        margin-top: 3px;
+        }
+        .verdana{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 18px;
+        font-weight: bold;
+        margin-bottom: 2px;
+        }
+        .verdana-2{
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 14px;
+        color: rgb(96, 96, 96);
+        margin-top: 3px;
+        }
+        .verdana-3{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        width: 300px;
+        }
+        .button{
+        background-color: green;
+        color: white;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        border: none;
+        padding-top: 7px;
+        padding-bottom: 7px;
+        padding-left: 12px;
+        padding-right: 12px;
+        border-radius: 6px;
+        cursor: pointer;
+        }
+        .arial2-1{
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        margin-bottom: 12px;
+        }
+        .arial-2-2{
+        font-size: 14px;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        width: 255;
+        }
+        .arial-2-3{
+        width: 255;
+        text-align: center;
+        font-size: 14px;
+        color: rgb(105, 120, 245);
+        font-family: Arial, Helvetica, sans-serif;
+        }
+        .mac{
+        text-align: center;
+        color: orange;
+        font-size: 12px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-bottom: 5px;
+        }
+        .mac-2{
+            text-align: center;
+            font-size: 16px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: bold;
+            margin-top: 3px;
+            margin-bottom: 5px;
+        }
+        .mac-3{
+            text-align: center;
+            font-size: 28px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: bold;
+            margin-top: 3px;
+            margin-bottom: 8px;
+        }
+        .mac-4{
+        font-size: 14px;
+        color: rgb(96, 96, 96);
+        margin-top: 3px;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        }
+        .container{
+        display: flex;  
+        justify-content: center;  
+        align-items: center;  
+        }
+        .mac-button{
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;
+        background-color: rgb(40, 125, 254);
+        border-radius: 18px;
+        padding-left: 12px;
+        padding-right: 12px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        border: none;
+        cursor: pointer;
+        display:flex;
+        }
+        .dollar{
+        margin-bottom: 5px;
+        }
+        .dollar-1{
+        font-size: 18px;
+        font-family: Arial, Helvetica, sans-serif;
+        vertical-align: bottom;
+        margin-bottom: 0px;
+        }
+        .dollar-2{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        color: rgb(96, 96, 96);
+        vertical-align: bottom;
+        margin-bottom: 0px;
+        }
+        .dollar-3{
+        color: green;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        margin-top: 2px;
+        margin-bottom: 5px;
+        }
+        .dollar-4{
+        color:rgb(96, 96, 96);
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        margin-top: 3px;
+        }
+        .dollar-5{
+        color: red;
+        }
+        .codecamp{
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        font-size: 14px;
+        margin-bottom: 5px;
+        }
+        .codecamp-2{
+        color: gray;
+        font-weight: normal;
+        }
+        .codecamp-3{
+        font-family: Arial, Helvetica, sans-serif;
+        width: 450px;
+        font-size: 14px;
+        margin-top: 3px;
+        }
+        .codecamp-4{
+        color:rgb(50, 165, 250);
+        }

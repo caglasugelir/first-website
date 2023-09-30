@@ -1,0 +1,195 @@
+.flexbox{
+    display: flex;
+    height: 50px;
+}
+.element-1{
+    background-color: lightpink;
+    width: 100px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.element-2{
+    background-color: lightblue;
+    width: 200px;
+}
+.item-1{
+    background-color: black;
+    color: white;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+
+}
+.column-pink{
+    background-color: lightpink;
+    display: flex;
+    width: 100px;
+    height: 50px;
+}
+.column-blue{
+    background-color: lightblue;
+    display: flex;
+    width: 200px;
+    height: 50px;
+    flex-direction: column;
+}
+.row-2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.column{
+    background-color: black;
+    color: white;
+}
+
+.container2{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    box-shadow: 0px 0px 2px rgb(150, 150, 150);
+    max-width: 280px;
+    border-radius: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+    margin-left: 10px;
+    color: gray;
+    font-size: 12px;
+    margin-top: 8px;
+}
+.info{
+    flex-direction: row;
+    margin-top: 8px;
+    margin-bottom: 20px;
+    display: flex;
+}
+.title{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 3px;
+}
+.picture{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.profile-picture{
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    object-fit: cover;
+    object-position: center;
+    margin-left: 12px;
+}
+.profile-picture-1{
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    object-fit: cover;
+    object-position: right;
+    margin-left: 12px;
+}
+.profile-picture-2{
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    object-fit: cover;
+    object-position: left;
+    margin-left: 12px;
+}
+.message{
+    margin-left: 12px;
+    flex: 1;
+    margin-right: 10px;
+
+}
+.text{
+    font-weight: 900;
+    font-size: 12px;
+}
+.subject{
+    font-weight: bold;
+    font-size: 11px;
+    margin-bottom: 4px;
+}
+.content{
+    font-size: 9px;
+    color: gray;
+    flex: 1;
+}
+.time{
+    color: gray;
+    font-size: 10px ;
+}
+div {
+    font-family: Arial;
+}
+
+.tweet-container{
+    display: flex;
+    flex-direction: row;
+    width: 420px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.tweeter-profile{
+        width: 60px;
+        height: 60px;
+        object-fit: cover;
+        border-radius: 30px;
+}
+
+.column1{
+    margin-right: 10px;
+}
+.column2{
+    flex: 1;
+}
+.row1{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5px;  
+}
+.account{
+    font-weight: bold;
+    margin-right: 5px;
+}
+.account-tag{
+    color: rgb(111, 111, 111);
+}
+.row2{
+    line-height: 20px;
+    margin-bottom: 15px;
+}
+.row3{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(200, 200, 200);
+    border-radius: 15px;
+    overflow: hidden;
+}
+.youtube-image{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(220, 220, 220);
+    margin-right: 10px;
+}
+.youtube-content{
+    flex: 1;
+}
+.youtube-link{
+    color: rgb(111, 111, 111);
+    margin-bottom: 3px;
+}
+.youtube-description{
+    line-height: 22px;
+}
